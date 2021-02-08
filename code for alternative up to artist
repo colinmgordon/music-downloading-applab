@@ -1,0 +1,79 @@
+onEvent("button2", "click", function( ) {
+setScreen("genrescreen");
+});
+onEvent("button4", "click", function() {
+  setScreen("alternativescreen");
+});
+onEvent("button5", "click", function() {
+  setScreen("childrenscreen");
+});
+onEvent("button6", "click", function() {
+  setScreen("christianscreen");
+});
+onEvent("button7", "click", function() {
+  setScreen("christmasscreen");
+});
+onEvent("button31", "click", function() {
+  setScreen("countryscreen");
+});
+onEvent("button27", "click", function() {
+  setScreen("danceanddjscreen");
+});
+onEvent("button30", "click", function() {
+  setScreen("hardrockscreen");
+});
+onEvent("button26", "click", function() {
+  setScreen("internationalscreen");
+});
+onEvent("button23", "click", function() {
+  setScreen("latinmusicscreen");
+});
+onEvent("button22", "click", function() {
+  setScreen("popscreen");
+});
+onEvent("button29", "click", function() {
+  setScreen("r&bscreen");
+});
+onEvent("button28", "click", function() {
+  setScreen("rap&hiphopscreen");
+});
+onEvent("button24", "click", function() {
+  setScreen("rockscreen");
+});
+onEvent("button25", "click", function() {
+  setScreen("speechesscreen");
+});
+onEvent("button32", "click", function( ) {
+  setScreen("alicemertonscreen");
+});
+onEvent("button38", "click",function( ){
+  setScreen("falloutboyscreen");
+});
+onEvent("button44", "click",function( ){
+  setScreen("funscreen");
+});
+
+onEvent("button46", "click",function( ){
+  setScreen("jimwardscreen");
+});
+onEvent("button48", "click",function( ){
+  setScreen("littleandashscreen");
+});
+onEvent("button47", "click",function( ){
+  setScreen("ohlandscreen");
+});
+onEvent("button49", "click",function( ){
+  setScreen("companyoftigersscreen");
+});
+onEvent("button39", "click",function( ){
+  setScreen("florenceandthemachinescreen");
+});
+onEvent("button43", "click",function( ){
+  setScreen("hozierscreen");
+});
+onEvent("button45", "click",function( ){
+  setScreen("kerliscreen");
+});
+onEvent("button41", "click",function( ){
+  setScreen("thelonelyforestscreen");
+});
